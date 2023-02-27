@@ -1,7 +1,5 @@
 package elektroyazilim;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
 class Utils {
@@ -39,5 +37,6 @@ public class FindPrimeNumber {
         System.out.println("Is " + number + " prime? : " + isPrime);
     }
 
+    // find prime number to Border
 
 }
